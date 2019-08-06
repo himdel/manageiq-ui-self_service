@@ -469,10 +469,10 @@ angular-animate@1.5.*:
   version "1.5.11"
   resolved "https://registry.yarnpkg.com/angular-animate/-/angular-animate-1.5.11.tgz#1baa43c303d1b93c4e6aa89453b39114b7a1c669"
 
-angular-animate@1.7.5:
-  version "1.7.5"
-  resolved "https://registry.yarnpkg.com/angular-animate/-/angular-animate-1.7.5.tgz#1ffc6c2a9cdee227a2ba79cc6cd8f71ec44db5dc"
-  integrity sha512-kU/fHIGf2a4a3bH7E1tzALTHk+QfoUSCK9fEcMFisd6ZWvNDwPzXWAilItqOC3EDiAXPmGHaNc9/aXiD9xrAxQ==
+angular-animate@~1.6.6:
+  version "1.6.10"
+  resolved "https://registry.yarnpkg.com/angular-animate/-/angular-animate-1.6.10.tgz#c520f6d341370e34e0a62060c99bcf47b7d7db8c"
+  integrity sha512-RU9ZJbTspq0W0x675H5k1DeSgKbAFfp2aiYoNGdlD+wQNKvwwMR5ho+EkDKkx9zE02a5goe8Z6EhhYPQSff9dA==
 
 angular-bootstrap-switch@0.5.2, angular-bootstrap-switch@^0.5.1:
   version "0.5.2"
@@ -483,10 +483,10 @@ angular-bootstrap-switch@0.5.2, angular-bootstrap-switch@^0.5.1:
     bootstrap-switch "3.3.2"
     jquery ">=1.9.0"
 
-angular-cookies@1.7.5:
-  version "1.7.5"
-  resolved "https://registry.yarnpkg.com/angular-cookies/-/angular-cookies-1.7.5.tgz#1c5ab3c05cdc43f1777be9506e64587cb3543634"
-  integrity sha512-/8xvvSl/Z9Vwu8ChRm+OQE3vmli8Icwl8uTYkHqD7j7cknJP9kNaf7SgsENlsLVtOqLE/I7TCFYrSx3bmSeNQA==
+angular-cookies@~1.6.6:
+  version "1.6.10"
+  resolved "https://registry.yarnpkg.com/angular-cookies/-/angular-cookies-1.6.10.tgz#20a014d501242e2edacd21397c0e5480e08dee00"
+  integrity sha512-ADfbqXLhwcaecAiWIaxpl8XWFJgWsrDl/ksSEkYm5dSoXHYlj3HKlAhPbjBv/foYS7pdI0apmSGHWrBPqdjF/g==
 
 angular-drag-and-drop-lists@2.0.0:
   version "2.0.0"
@@ -524,15 +524,15 @@ angular-gettext@2.4.1:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/angular-gettext/-/angular-gettext-2.4.1.tgz#1cfc53afd0f8541a36b56dc50558a1a24def181b"
 
-angular-messages@1.7.5:
-  version "1.7.5"
-  resolved "https://registry.yarnpkg.com/angular-messages/-/angular-messages-1.7.5.tgz#7c2fd781315a43a19838b117da0142a988454e14"
-  integrity sha512-YDpJpFLyrIgZjE/sIAjgww1y6r3QqXBJbNDI0QjftD37vHXLkwvAOo3A4bxPw8BikyGLcJrFrgf6hRAzntJIWA==
+angular-messages@~1.6.6:
+  version "1.6.10"
+  resolved "https://registry.yarnpkg.com/angular-messages/-/angular-messages-1.6.10.tgz#09eedc5b50db99eeed9776414428c587c1259715"
+  integrity sha512-FpILIYqeBj2fP5U5txnO/cneeKZxdF+WqpBo7tgHXl2BmOVVWKUCEjMmByouYxwn9PFLeipBPjaaDs2/eB/m5A==
 
-angular-mocks@1.7.5:
-  version "1.7.5"
-  resolved "https://registry.yarnpkg.com/angular-mocks/-/angular-mocks-1.7.5.tgz#c8baba5a06ed60b934697026b492169626af384b"
-  integrity sha512-I+Ue2Bkx6R9W5178DYrNvzjIdGh4wKKoCWsgz8dc7ysH4mA70Q3M9v5xRF0RUu7r+2CZj+nDeUecvh2paxcYvg==
+angular-mocks@~1.6.6:
+  version "1.6.10"
+  resolved "https://registry.yarnpkg.com/angular-mocks/-/angular-mocks-1.6.10.tgz#6a139e43c461d0c9a5a1acebc91e63db16031176"
+  integrity sha512-1865/NmqHNogibNoglY1MGBjx882iu2hI46BBhYDWyz0C4TDM5ER8H8SnYwQKUUG4RXMDsJizszEQ2BEoYKV9w==
 
 angular-patternfly@4.18.6:
   version "4.18.6"
@@ -559,19 +559,19 @@ angular-patternfly@4.18.6:
     jquery-ui-dist "~1.12.1"
     moment "~2.19.3"
 
-angular-resource@1.7.5:
-  version "1.7.5"
-  resolved "https://registry.yarnpkg.com/angular-resource/-/angular-resource-1.7.5.tgz#80007af3aed8b6278bf2344e8e5257ea7bca333e"
-  integrity sha512-zlCKVNa2nnZNb4Lz3YFPKhsYG+v+t4STEsjkWRbii6PfwSrtH9R/zGpCOkBNFnq3naeZMMmd5aIIgHi5a7k9jA==
+angular-resource@~1.6.6:
+  version "1.6.10"
+  resolved "https://registry.yarnpkg.com/angular-resource/-/angular-resource-1.6.10.tgz#28c1834e9fa623467d2f9894716a4e6c7e077459"
+  integrity sha512-jrYXUGPtpv/lTBlYZ6HZefIV6Lb+6e1HUavBPg9TSzW7s4zYRBWzMj6vMg8gZzVjWdH/nYBWfilV0qfnmZSI+A==
 
 angular-sanitize@1.5.*:
   version "1.5.11"
   resolved "https://registry.yarnpkg.com/angular-sanitize/-/angular-sanitize-1.5.11.tgz#ebfb3f343e543f9b2ef050fb4c2e9ee048d1772f"
 
-angular-sanitize@1.7.5:
-  version "1.7.5"
-  resolved "https://registry.yarnpkg.com/angular-sanitize/-/angular-sanitize-1.7.5.tgz#75d49e15071ca9c70581e76d20940f26372e24d2"
-  integrity sha512-wjKCJOIwrkEvfD0keTnKGi6We13gtoCAQIHcdoqyoo3gwvcgNfYymVQIS3+iCGVcjfWz0jHuS3KgB4ysRWsTTA==
+angular-sanitize@~1.6.6:
+  version "1.6.10"
+  resolved "https://registry.yarnpkg.com/angular-sanitize/-/angular-sanitize-1.6.10.tgz#635a362afb2dd040179f17d3a5455962b2c1918f"
+  integrity sha512-01i1Xoq9ykUrsoYQMSB6dWZmPp9Df5hfCqMAGGzJBWZ7L2WY0OtUphdI0YvR8ZF9lAsWtGNtsEFilObjq5nTgQ==
 
 angular-svg-base-fix@2.0.0:
   version "2.0.0"
@@ -597,14 +597,14 @@ angular@1.5.*:
   version "1.5.11"
   resolved "https://registry.yarnpkg.com/angular/-/angular-1.5.11.tgz#8c5ba7386f15965c9acf3429f6881553aada30d6"
 
-angular@1.7.5:
-  version "1.7.5"
-  resolved "https://registry.yarnpkg.com/angular/-/angular-1.7.5.tgz#d1c1c01c6f5dc835638f3f9aa51012857bdac49e"
-  integrity sha512-760183yxtGzni740IBTieNuWLtPNAoMqvmC0Z62UoU0I3nqk+VJuO3JbQAXOyvo3Oy/ZsdNQwrSTh/B0OQZjNw==
-
 angular@>=1.3.0, angular@>=1.4.0:
   version "1.7.2"
   resolved "https://registry.yarnpkg.com/angular/-/angular-1.7.2.tgz#687b955dbe5c533f8d73460461707af00360251f"
+
+angular@~1.6.6:
+  version "1.6.10"
+  resolved "https://registry.yarnpkg.com/angular/-/angular-1.6.10.tgz#eed3080a34d29d0f681ff119b18ce294e3f74826"
+  integrity sha512-PCZ5/hVdvPQiYyH0VwsPjrErPHRcITnaXxhksceOXgtJeesKHLA7KDu4X/yvcAi+1zdGgGF+9pDxkJvghXI9Wg==
 
 angularjs-datatables@^0.5.9:
   version "0.5.9"
