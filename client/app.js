@@ -33,7 +33,7 @@ require('ngstorage')
 
 // Libraries: ui-components
 require('bootstrap')
-require('bootstrap-select')
+require('@pf3/select')
 require('bootstrap-datepicker')
 require('angular-bootstrap-switch')
 require('angular-ui-sortable')

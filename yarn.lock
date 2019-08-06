@@ -109,6 +109,11 @@
     es7-shim "^6.0.0"
     sprintf-js "^1.1.1"
 
+"@pf3/select@~1.12.6":
+  version "1.12.6"
+  resolved "https://registry.yarnpkg.com/@pf3/select/-/select-1.12.6.tgz#8beec7e016e2c501b8ff1222c2c673e57b24de43"
+  integrity sha512-xWGufPx1+H8LFMgmTPzmdgSiv9Zo7y/quFneo6Qon6yJcYdZtaJ+rv5oBzQoTgZNxIqEzVozJ+cykKGrGsxDZQ==
+
 "@sinonjs/formatio@^2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@sinonjs/formatio/-/formatio-2.0.0.tgz#84db7e9eb5531df18a8c5e0bfb6e449e55e654b2"
